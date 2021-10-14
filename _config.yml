@@ -70,15 +70,3 @@ defaults:
     values:
       permalink: ""
       
-      ---
-layout: default
-modal-id: 7
-date: 2021-10-18
-img: cabin.png
-alt: image-alt
-project-date: october 2021
-client: The Client
-category: Web Development
-description: The description of the project
-
----
