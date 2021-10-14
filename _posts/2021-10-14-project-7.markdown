@@ -10,6 +10,7 @@ client: The Client
 category: Web Development
 description: The description of the project
 ---
+![Capcdture.JPG]({{site.baseurl}}/_posts/Capcdture.JPG)
 ## A New Post
 
 
