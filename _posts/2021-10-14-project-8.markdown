@@ -2,14 +2,15 @@
 published: true
 layout: default
 modal-id: 8
-date: 10/14/2021
+date: 2021-10-14T00:00:00.000Z
 img: download.png
 alt: image-alt
-project-date: october 2021
+project-date: January 2020
 client: The Client
 category: Web Development
 description: The description of the project
 image: download.png
+Image: null
 ---
 ## A New Post
 
