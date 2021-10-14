@@ -9,6 +9,7 @@ project-date: october 2021
 client: The Client
 category: Web Development
 description: The description of the project
+image: download.png
 ---
 ## A New Post
 
