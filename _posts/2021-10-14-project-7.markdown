@@ -1,0 +1,7 @@
+---
+published: false
+---
+## A New Post
+
+hkjkjhAKSHKJshkHASKHAKSJHKJASHKJHAkshkjaSHKAS![Capcdture.JPG]({{site.baseurl}}/_posts/Capcdture.JPG)
+
