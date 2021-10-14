@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 layout: default
 modal-id: 8
-date: 2021-10-14T00:00:00.000Z
+date: {}
 img: null
 alt: image-alt
 project-date: october 2021
