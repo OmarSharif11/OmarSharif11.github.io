@@ -3,7 +3,7 @@ published: true
 layout: default
 modal-id: 1
 date: 2021-01-18T00:00:00.000Z
-img: Capcdture.png
+img: cabin.png
 alt: image-alt
 project-date: January 2020
 client: The Client
