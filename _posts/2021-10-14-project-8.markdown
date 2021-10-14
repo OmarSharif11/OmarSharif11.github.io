@@ -2,8 +2,8 @@
 published: true
 layout: default
 modal-id: 8
-date: {}
-img: null
+date: 10/14/2021
+img: download.png
 alt: image-alt
 project-date: october 2021
 client: The Client
