@@ -2,8 +2,8 @@
 published: true
 layout: default
 modal-id: 7
-date: {}
-img: Capcdture.JPG
+date: 10/14/2021
+img: Capcdture.png
 alt: image-alt
 project-date: January 2020
 client: The Client
