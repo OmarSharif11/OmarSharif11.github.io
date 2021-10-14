@@ -72,11 +72,11 @@ defaults:
       
       ---
 layout: default
-modal-id: 1
-date: 2020-01-18
+modal-id: 7
+date: 2021-10-18
 img: cabin.png
 alt: image-alt
-project-date: January 2021
+project-date: october 2021
 client: The Client
 category: Web Development
 description: The description of the project
