@@ -2,10 +2,10 @@
 published: false
 layout: default
 modal-id: 7
-date: 2020-01-18T00:00:00.000Z
+date: 2020-01-21T00:00:00.000Z
 img: Capcdture.png
 alt: image-alt
-project-date: January 2020
+project-date: october 2021
 client: The Client
 category: Web Development
 description: The description of the project
