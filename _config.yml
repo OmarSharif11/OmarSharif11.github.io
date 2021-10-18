@@ -1,7 +1,8 @@
 # Site settings
 title: MHPC 
 email: your-email@domain.com
-url: 
+url:
+img : logo.png
 description: "That is a test desc"
 keywords: "your keywords, separated by commas"
 skills: "WE ARE HIGHFLYER PIGEON CLUB"
@@ -35,7 +36,7 @@ footer:
   copyright: MYMENSINGH HIGHFLYER PIGEON CLUB BANGLADESH
   location: MYMENSINGH BANGLADESH
   social: Around the Web
-  credits: Credits
+  credits: সরকার 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +57,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Omar Sharif <a https://www.facebook.com/Omar.sharif.001 </a>.'
 
 # Build settings
 markdown: kramdown
@@ -69,4 +70,3 @@ defaults:
       type: "posts"
     values:
       permalink: ""
-      
