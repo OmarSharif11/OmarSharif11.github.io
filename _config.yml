@@ -2,7 +2,7 @@
 title: MHPC 
 email: your-email@domain.com
 url:
-description: "That is a test desc"
+description: "Myensingh Highflyer pigeon club"
 keywords: "your keywords, separated by commas"
 skills: "WE ARE HIGHFLYER PIGEON CLUB"
 meta_author: Sharif Omar
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Myensingh Town 2200
+  - line: Bangladesh 
 
 # Credits content
 credits: 'Omar Sharif <a> https://www.facebook.com/Omar.sharif.001 </a>.'
