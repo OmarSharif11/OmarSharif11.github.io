@@ -2,7 +2,6 @@
 title: MHPC 
 email: your-email@domain.com
 url:
-img : logo.png
 description: "That is a test desc"
 keywords: "your keywords, separated by commas"
 skills: "WE ARE HIGHFLYER PIGEON CLUB"
@@ -57,7 +56,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Omar Sharif <a https://www.facebook.com/Omar.sharif.001 </a>.'
+credits: 'Omar Sharif <a> https://www.facebook.com/Omar.sharif.001 </a>.'
 
 # Build settings
 markdown: kramdown
